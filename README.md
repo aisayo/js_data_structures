@@ -18,7 +18,8 @@
     - while statement
     - break statement
     - continue statement
-- Use conditional statements
+- First Class Citizens/ High Order Functions
+- Use conditional statements??
     - if statements
     - if…else statement
     - else if statement
