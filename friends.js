@@ -37,3 +37,13 @@ const friends = {
         },
     ]
 }
+
+
+// exercise
+
+// 1. Return the shows release date using dot notation
+// 2. How many episodes are there in the show? [bracket notation]
+// 3. Return an array of all the object keys
+// 4. What was Ross Gellers profession?
+// 5. Which actor played Phoebe Buffay?
+// 6. return an array of all the characters names*** 
