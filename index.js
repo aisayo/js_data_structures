@@ -3,9 +3,14 @@
 
 let friends = [];
 let friends = new Array();
+let friends = new Array('Rachel')
 
 // we can add items to an array, what is the technical term for these individual items
 let friends = ["Ross", "Monica", "Joey"];
+
+// Counting items in an array
+
+friends.length 
 
 // Accessing Elements
 
